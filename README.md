@@ -55,9 +55,10 @@ A research project for fabricating a Smart Water Meter Monitoring System using P
 
 ---
 ## 💻 Projects
-[FastAPI CRUD with Basic Authentication](https://github.com/iftekherhossain/fastapi-crud-authentication)
+- [FastAPI CRUD with Basic Authentication](https://github.com/iftekherhossain/fastapi-crud-authentication)
 Developed a FastAPI application that supports CRUD operations with integrated Basic Authentication. The system prioritizes secure data access through protected endpoints.
-[A Home Security System with Social Interaction.](https://github.com/iftekherhossain/Final-Year-Project)
+
+- [A Home Security System with Social Interaction.](https://github.com/iftekherhossain/Final-Year-Project)
  A complete home security system is designed to act as a digital security guard. Face recognition, Voice recognition, Voice synthesis, and IoT technologies are used to make the system robust and user‑friendly. Faces are recognized using the Facenet model and a technique applied here to make the system faster and more accurate, called “Mean Embeddings”. The webserver was designedusing the Django framework.
 [Smart Eye Controlled Wheelchair for Disabled Person.](https://github.com/iftekherhossain/eye_tracking)
 Designed a wheelchair controlled by eye movements, enabling disabled individuals to move around easily and independently usingsimply by their eye movements. Color Sorting with Computer Vision. Developed an advanced computer vision system capable of accurately identifying and sorting objects based on their color variations.
