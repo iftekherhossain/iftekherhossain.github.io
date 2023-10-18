@@ -1,3 +1,4 @@
+
 # Md Iftekher Hossain
 
 📍 Jyväskylä, Finland | ✉️ [iftekher.hossain21@gmail.com](mailto:iftekher.hossain21@gmail.com) | 📞 +358-7230756
@@ -60,13 +61,17 @@ Developed a FastAPI application that supports CRUD operations with integrated Ba
 
 - [A Home Security System with Social Interaction.](https://github.com/iftekherhossain/Final-Year-Project)
  A complete home security system is designed to act as a digital security guard. Face recognition, Voice recognition, Voice synthesis, and IoT technologies are used to make the system robust and user‑friendly. Faces are recognized using the Facenet model and a technique applied here to make the system faster and more accurate, called “Mean Embeddings”. The webserver was designedusing the Django framework.
-[Smart Eye Controlled Wheelchair for Disabled Person.](https://github.com/iftekherhossain/eye_tracking)
+
+- [Smart Eye Controlled Wheelchair for Disabled Person.](https://github.com/iftekherhossain/eye_tracking)
 Designed a wheelchair controlled by eye movements, enabling disabled individuals to move around easily and independently usingsimply by their eye movements. Color Sorting with Computer Vision. Developed an advanced computer vision system capable of accurately identifying and sorting objects based on their color variations.
-[Face Recognition using Mean Embeddings.](https://github.com/iftekherhossain/Facenet-Face-Recognition)
+
+- [Face Recognition using Mean Embeddings.](https://github.com/iftekherhossain/Facenet-Face-Recognition)
 Developed a cutting‑edge facial recognition system leveraging Facenet. A novel method, ”Mean Embeddings,” was introduced, resulting in a significant performance boost—achieving a 6.5 times speed increase and enhancing accuracy by 1.6 Face Recognition‑based People Counter on Raspberry Pi 4 Developed a system that accurately counts individuals using the Facenet architecture for face recognition. This innovative people counter has been efficiently implemented on a Raspberry Pi 4.
-[Conveyor Object Detection using OpenCV]()
+
+- [Conveyor Object Detection using OpenCV](https://github.com/iftekherhossain/Shape_detection)
 Implemented a real‑time detection system that identifies objects on a moving conveyor based on their shape, size, and color. Leveraging the capabilities of OpenCV, the project efficiently classifies and analyzes objects, optimizing conveyor operations.
-[Intelligent Voice Assistant using Rasa Framework.](https://github.com/iftekherhossain/Voice-Assistant-Rasa)
+
+- [Intelligent Voice Assistant using Rasa Framework.](https://github.com/iftekherhossain/Voice-Assistant-Rasa)
 Engineered a real‑time voice assistant that provides intelligent responses. Utilized the advanced capabilities of the Rasa framework
 to ensure dynamic and interactive user experiences.
 
