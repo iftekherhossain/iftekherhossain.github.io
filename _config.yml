@@ -1,4 +1,2 @@
 title: Md Iftekher Hossain
-theme: minima
-plugins:
-  - jekyll-feed
+theme: jekyll-theme
