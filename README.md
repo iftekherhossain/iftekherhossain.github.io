@@ -89,4 +89,32 @@ to ensure dynamic and interactive user experiences.
 
 ## 🌟 Achievements
 - **CTO Appreciation Award**, CTO Appreciation Award Giving Ceremony, SSL Wireless, Dec 2022.
+-  **High Flyer Hero**, Mid Year Performance Award, SSL Wireless, Sep 2022.
+-  **Winner**, Idea Contest, Esho Robot Banai, Aug 2017.
+-  **Runner-Up**, Soccerbot, NSU Bit Arena, Jan 2019
 
+## 📚 Publications
+- [“Fabrication of Smart Eye Controlled Wheelchair for Disabled Person”](https://www.researchgate.net/publication/356749389_Fabrication_of_Smart_Eye_Controlled_Wheelchair_for_Disabled_Person), Md. Anisur Rahman, Md. Abdur Rahman,
+Md. Imteaz Ahmed, and Md. Iftekher Hossain, International Conference on Big Data, IoT and Machine Learning (BIM 2021)
+- [“A Deep Learning Approach to Count people Using Facenet Architecture”](https://ieeexplore.ieee.org/document/9619328), Md. Iftekher Hossain, Md. Sakirul Alam, International Conference on Emerging Trends in Industry 4.0 (2021 ETI 4.0), Raigarh, Chhattisgarh, India
+- [“An Efficient Way to Recognize Faces Using Mean Embeddings”](https://ieeexplore.ieee.org/abstract/document/9392401), Md. Iftekher Hossain, Sama‑E‑Shan and Homayun Kabir, IEEE First International Conference on Advances in Electrical, Computing, Communications and Sustainable Technologies (IEEE ICAECT 2021)
+- [“An Approach to Maximize The Integrated Safety System For Two Wheelers”](https://www.researchgate.net/publication/356728640_An_Approach_to_Maximize_the_Integrated_Safety_System_for_Two_Wheelers), Md. Abdullah Al Mamun, Bably
+Das, Sama‑E‑Shan, and Md. Iftekher Hossain | Conference Name 2
+- [“Low Cost Deaf Communication System”](), Md. Iftekher Hossain, Marzan Alam, and Md Rakibul Islam Prince | 1st
+National Conference On Energy Technology and Industrial Automation (NCETIA 2018)
+
+## 📜 Certificates
+- [Machine Learning](http://coursera.org/verify/4D6BVVD28G36)
+- [Mathematics for Machine Learning: Linear Algebra](http://coursera.org/verify/Y3QAFBFJ44UT)
+- [Mathematics for Machine Learning: Multivariate Calculus](http://coursera.org/verify/5CUFNLXY933G)
+- [Deep Learning Specialization](http://coursera.org/verify/specialization/Q9V3YQED4FFY)
+- [Neural Networks and Deep Learning](http://coursera.org/verify/H823CCQEMXSA)
+- [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](http://coursera.org/verify/W7PNUZXNPEV2)
+- [Structuring Machine Learning Projects](http://coursera.org/verify/AE94P9WWQ49J)
+- [Convolutional Neural Network](http://coursera.org/verify/86R4TBJ9R9DS)
+- [Sequence Models](http://coursera.org/verify/ADST9U4F6CJC)
+- [Algorithmic Toolbox](http://coursera.org/verify/UE7HK6PHCBPS)
+- [Advanced Deployment Scenarios with TensorFlow](http://coursera.org/verify/3UBZ3XHWA6W4)
+- [Deploy Models with TensorFlow Serving and Flask](http://coursera.org/verify/LWTKAWPSPFDT)
+- [Version Control with Git](https://www.coursera.org/account/accomplishments/certificate/DX43Z49AKEVP)
+- [Python Classes and Inheritance](https://www.coursera.org/verify/5EZD6ECFH6PD)
