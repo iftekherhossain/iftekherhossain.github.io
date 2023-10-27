@@ -80,7 +80,7 @@ to ensure dynamic and interactive user experiences.
 - **Programming**: Python, C/C++, Javascript, Git, Scripting (Bash), LaTeX, HTML, Vim
 - **Operating System**: Linux, Windows
 - **Frameworks**: Tensorflow, Pytorch, Keras, OpenCV, Fastapi, Numpy, Pandas, Matplotlib, Seaborn, Selenium, Hugging Face
----
+
 ## 📈 Skill Assesments
 - **Machine Learning**, in top 30% among 188K participants.
 - **Python (Programming Language)**, in top 30% among 1 million participants
