@@ -79,6 +79,7 @@ to ensure dynamic and interactive user experiences.
 ## 🚀 Skills
 - **Programming**: Python, C/C++, Javascript, Git, Scripting (Bash), LaTeX, HTML, Vim
 - **Operating System**: Linux, Windows
+- **Technologies**: Computer Vision, Machine Learning, Deep Learning, Natural Language Processing, Cloud Computing, MLOPS
 - **Frameworks**: Tensorflow, Pytorch, Keras, OpenCV, Fastapi, Numpy, Pandas, Matplotlib, Seaborn, Selenium, Hugging Face
 
 ## 📈 Skill Assesments
