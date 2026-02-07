@@ -72,25 +72,36 @@ Developed a simulated robot based on **ROS2 Humble** ([GitHub](https://github.co
 
 It also includes **AI-driven appointment booking** and **remote doctor consultations**, enhancing patient care.  
 
-**Screenshot:**  
+**Architecture:**  
 ![MediBot Screenshot](images/medibot-architecture.png)  
 
 **Video Demo:**  
-[Watch on YouTube](videos/medibot_simulation.webm)
+[Video Demo](videos/medibot_simulation.webm)
 
 ---
 
-### Virtual T-Shirt Try-On System
-[GitHub Repository](https://github.com/iftekherhossain/Virtual-TryOn)
+### SOAG - Video-to-Robot Knowledge Transfer for Zero-Shot Manipulation
+[GitHub Repository](https://github.com/iftekherhossain/franka_zero_shot_manipulation)
 
-Developed a **virtual T-shirt try-on system** leveraging computer vision and deep learning. Implemented **advanced image segmentation** to overlay T-shirts onto user photos, enabling a **realistic virtual fitting experience**.  
+Developed **SOAG (Spatially-Organized Abstraction for Generalization)**, a framework for **transferring video demonstration knowledge to robot manipulation** in a **zero-shot manner** using **foundational models**. Evaluated across **six task families**, including simple and **contact-rich complex tasks**.  
 
-**Screenshot:**  
-![Virtual Try-On Screenshot](images/virtual_tryon.png)  
+The system incorporates:  
+- **Prompt Engineering for LLM-Based Task & Motion Planning** to guide robot behavior.  
+- **Decision-Override Tools** to process and refine LLM outputs for safer, intentional motions.  
+- **OAG Video Abstraction** for effective task demonstration encoding.  
+- **Spatial Modification Layer** to improve abstraction accuracy (~15% increase).  
+
+**Results:**  
+- 32 video demonstrations → 23 correct video abstractions.  
+- Of 23 successful abstractions → 20 executions succeeded with same objects, 21 with diverse objects.  
+- Achieved ~70% overall task execution accuracy, showing strong **knowledge transfer across object variations**.
+
+**Architecture:**  
+![SOAG Architecture](images/Overall_Diagram_Franak_Zeroshot.png)  
 
 **Video Demo:**  
-[Watch Demo](https://youtu.be/your_video_link)
-
+[Video Demo-Demonstration](videos/pulling_demo.mp4)
+[Video Demo-Execution](videos/pulling.mp4)
 
 ## 🚀 Skills
 - **Programming**: Python, C/C++, Javascript, Git, Scripting (Bash), LaTeX, HTML, Vim
