@@ -1,79 +1,95 @@
 
 # Md Iftekher Hossain
 
-📍 Jyväskylä, Finland | ✉️ [iftekher.hossain21@gmail.com](mailto:iftekher.hossain21@gmail.com) | 📞 +358-7230756
+**Doctoral Researcher** @ **[Cognitive Robotics Group](https://research.tuni.fi/cogrob/), Tampere University**  | ✉️ [iftekher.hossain21@gmail.com](mailto:iftekher.hossain21@gmail.com) | 
 
 ---
 
 ## 👋 About Me
-
-I am Md Iftekher Hossain, a dedicated data scientist with nearly 2 years of experience at SSL Wireless.Currently pursuing my Master's degree in Cognitive Computing and Collective Intelligence at the University of Jyväskylä, I specialize in computer vision, machine learning, and AI model deployment. My passion lies in advancing technology to enhance our understanding of the world. I train my robots to perceive the beauty of our world and enhance their intelligence.
+I am a Doctoral Researcher in Robotics focusing on generalist robotic policy learning with spatial understanding. My research aims to develop data-efficient learning methods that enable robotic systems to generalize across tasks and environments, with a strong emphasis on real-world industrial deployment. I am currently a researcher in the PERFORM project within the Cognitive Robotics Group at Tampere University. My journey in intelligent robotic manipulation began during my Master’s thesis at the Intelligent Robotics Group, Aalto University, where I worked on zero-shot robotic policy learning using large language and vision–language models. This experience shaped my research focus on data-efficient, generalizable robotic systems for real-world deployment.
 
 ---
 ## 💼 Professional Experience
 
-### Data Scientist, *SSL Wireless*
-***Feb 2023 ‑ Aug 2023***
-- Mentored juniors and interns.
-- Time series forecasting on daily usage data of a service and automatic measures on the prediction.
-- Developing automated invoice data parsing.
-- Developed a novel technique that detects whether a shop image is taken from an angled position
 
-### Junior Data Scientist, *SSL Wireless*
-***Nov 2021 ‑ Feb 2023***
-- Developed shop image validator and shop appearance detector from image.
-- Developed a novel technique for shop size estimation from image.
-- Implemented custom segmentation model, which extracts shop portion from the whole image.
-- Developed an algorithm to detect objects of variable sizes with using only small object dataset.
-- Implemented FMCG Product Identification system for real retail stores in Bangladesh using computer vision.
-- Built and deployed multiple APIs in production using FastAPI and Docker.
-- Implemented NID Verification system with the accuracy of 98.5%.
-- Implemented a better face detection model for MFR (Multi Face Recognizer).
-- Implemented a novel technique called “Mean Embeddings” that increased the accuracy of the model by about 8% and speeded up
-by 5 more times than the previous method.
-- Built a robust Facebook Post and Comment scraper that scrapped over 60,000 comments from Facebook pages and groups.
-- Implemented a better Bengali voice recognition model with a Word Error Rate (WER) of 32.08% so far.
+### Research Assistant (Summer Intern)  
+**Intelligent Robotics Group, Aalto University**  
+*June 2025 – Present*
 
-### Vice President, *Robo Mechatronics Association (RMA)*
-***Sep 2019 ‑ Mar 2021***
-Robo Mechatronics Association Bangladesh (RMA) is the first university campus‑based robotics organization in Bangladesh. While working here we organized various competitions and workshops. Bangladesh.
+- Systematically evaluated **foundation-model-based zero-shot imitation learning** across **six task families**.
+- Performed **sim-to-real transfer** of zero-shot manipulation on a real **Franka Emika Panda** robot.
+- Conducted **ablation studies** to improve video understanding and foundation-model-based manipulation performance.
+- Implemented **MoveIt Task Constructor** with the **Franka Emika Panda** robot in simulation.
 
-### Web Developer (Part‑Time), **Panacea Private Consulting Group**
-***Jan 2019 ‑ Mar 2019***
-Worked on a research and development project on Enterprise Resource Planning (ERP) using Django Framework.
 
-### Research Assistant, **Institute of Energy Technology (IET), CUET**
-**Mar 2018 ‑ Apr 2018**
-A research project for fabricating a Smart Water Meter Monitoring System using Python, MQTT, Microcontrollers, Sensors, and Raspberry Pi under the Institute of Energy Technology (IET), CUET.
 
-## 🎓 Education
+### Master’s Thesis Worker  
+**Intelligent Robotics Group, Aalto University**  
+*[Thesis](https://jyx.jyu.fi/jyx/Record/jyx_123456789_102764?sid=169128622)*  
+*January 2025 – May 2025*
 
-### M. Sc. in Cognitive Computing and Collective Intelligence, University of Jyväskylä
-**Aug 2023 -** 
+- Enhanced **zero-shot trajectory generation** using **LLM-based reasoning**.
+- Introduced **OAG** and **SOAG** for transferring **passive human demonstration knowledge** to robotic execution in novel environments.
+- Integrated **audio transcription**, improving **OAG task recognition by 60%**.
+- Achieved **75% success** on **contact-rich manipulation tasks** (pushing, pulling, reaching) over **12 execution phases**.
+- Developed a **fully prompt-based imitation learning system** requiring **no robot-specific training data**.
+- Designed a framework for **trajectory generation from passive video demonstrations** using **LLM reasoning** and **semantic abstraction**.
+- Leveraged **vision–language models** for **zero-shot action sequence extraction** and **high-level planning**.
+- Implemented **object detection, tracking, and semantic mapping** in **PyBullet** using the **Franka Emika Panda** robot.
+- Evaluated **domain shift effects** and devised robust **task generalization techniques** using **SOAG abstraction**.
+- **Awarded Grade:** **5/5 (Excellent)**
 
-### B. Sc. in Mechatronics and Industrial Engineering, Chittagong University of Engineering and Technology
-***Feb 2016 - Mar 2021***
+### Data Scientist  
+**SSL Wireless**  
+*November 2021 – August 2023*
+
+- Developed and deployed **computer vision systems**, including image segmentation for shop detection and size estimation, and object detection for variable-sized **FMCG products**.
+- Integrated production systems using **FastAPI** and **Docker**, ensuring scalability and reliability.
+- Improved **national ID verification accuracy to 98.5%**.
+- Introduced a **Mean Embeddings** approach for multi-face recognition, increasing accuracy by **8%** and reducing inference time by **5×**.
+- Built automated **large-scale data scraping pipelines** for social media analytics.
+- Developed methods for **shop image verification** and **automated invoice data parsing**.
+- Applied **time-series forecasting** to daily service usage data and implemented predictive strategies.
+- Mentored junior team members and interns.
+
+### Research Assistant  
+**Institute of Energy Technology (IET), CUET**  
+*March 2018 – April 2018*
+
+- Contributed to a research project on a **Smart Water Meter Monitoring System** using **Python, MQTT, microcontrollers, sensors, and Raspberry Pi**.
 
 ---
-## 💻 Projects
-- [FastAPI CRUD with Basic Authentication](https://github.com/iftekherhossain/fastapi-crud-authentication)
-Developed a FastAPI application that supports CRUD operations with integrated Basic Authentication. The system prioritizes secure data access through protected endpoints.
+## Projects
 
-- [A Home Security System with Social Interaction.](https://github.com/iftekherhossain/Final-Year-Project)
- A complete home security system is designed to act as a digital security guard. Face recognition, Voice recognition, Voice synthesis, and IoT technologies are used to make the system robust and user‑friendly. Faces are recognized using the Facenet model and a technique applied here to make the system faster and more accurate, called “Mean Embeddings”. The webserver was designedusing the Django framework.
+### MediBot - An Interactive General Practitioner Robot
+[GitHub Repository](https://github.com/iftekherhossain/medibot-agents/tree/iftekher)
 
-- [Smart Eye Controlled Wheelchair for Disabled Person.](https://github.com/iftekherhossain/eye_tracking)
-Designed a wheelchair controlled by eye movements, enabling disabled individuals to move around easily and independently usingsimply by their eye movements. Color Sorting with Computer Vision. Developed an advanced computer vision system capable of accurately identifying and sorting objects based on their color variations.
+Developed a simulated robot based on **ROS2 Humble** ([GitHub](https://github.com/iftekherhossain/medibot-ros)) with advanced robotics and computer vision capabilities. The system uses a **modular, multi-agent design**, where each agent performs a specific task:  
+- GP Interaction using LLM  
+- Pose analysis  
+- Tremor analysis  
+- Stroke face detection using computer vision  
 
-- [Face Recognition using Mean Embeddings.](https://github.com/iftekherhossain/Facenet-Face-Recognition)
-Developed a cutting‑edge facial recognition system leveraging Facenet. A novel method, ”Mean Embeddings,” was introduced, resulting in a significant performance boost—achieving a 6.5 times speed increase and enhancing accuracy by 1.6 Face Recognition‑based People Counter on Raspberry Pi 4 Developed a system that accurately counts individuals using the Facenet architecture for face recognition. This innovative people counter has been efficiently implemented on a Raspberry Pi 4.
+It also includes **AI-driven appointment booking** and **remote doctor consultations**, enhancing patient care.  
 
-- [Conveyor Object Detection using OpenCV](https://github.com/iftekherhossain/Shape_detection)
-Implemented a real‑time detection system that identifies objects on a moving conveyor based on their shape, size, and color. Leveraging the capabilities of OpenCV, the project efficiently classifies and analyzes objects, optimizing conveyor operations.
+**Screenshot:**  
+![MediBot Screenshot](images/medibot-architecture.png)  
 
-- [Intelligent Voice Assistant using Rasa Framework.](https://github.com/iftekherhossain/Voice-Assistant-Rasa)
-Engineered a real‑time voice assistant that provides intelligent responses. Utilized the advanced capabilities of the Rasa framework
-to ensure dynamic and interactive user experiences.
+**Video Demo:**  
+[Watch on YouTube](videos/medibot_simulation.webm)
+
+---
+
+### Virtual T-Shirt Try-On System
+[GitHub Repository](https://github.com/iftekherhossain/Virtual-TryOn)
+
+Developed a **virtual T-shirt try-on system** leveraging computer vision and deep learning. Implemented **advanced image segmentation** to overlay T-shirts onto user photos, enabling a **realistic virtual fitting experience**.  
+
+**Screenshot:**  
+![Virtual Try-On Screenshot](images/virtual_tryon.png)  
+
+**Video Demo:**  
+[Watch Demo](https://youtu.be/your_video_link)
 
 
 ## 🚀 Skills
