@@ -11,10 +11,16 @@ I am a Doctoral Researcher in Robotics focusing on generalist robotic policy lea
 ---
 ## 💼 Professional Experience
 
+### Doctoral Researcher  
+**Cognitive Robotics Group, Tampere University**  
+*September 2025 – Present*
+
+- Surveying **state-of-the-art Vision–Language–Action (VLA) models** to identify open research gaps.
+- Implementing and benchmarking **SOTA VLA algorithms** for robotic manipulation and generalization.
 
 ### Research Assistant (Summer Intern)  
 **Intelligent Robotics Group, Aalto University**  
-*June 2025 – Present*
+*June 2025 – August 2025*
 
 - Systematically evaluated **foundation-model-based zero-shot imitation learning** across **six task families**.
 - Performed **sim-to-real transfer** of zero-shot manipulation on a real **Franka Emika Panda** robot.
